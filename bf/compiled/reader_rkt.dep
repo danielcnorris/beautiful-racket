@@ -1,0 +1,1 @@
+("7.3" racket ("873a65fcc05ffa95db959b9ad1f1d45d2246bf34" . "fb65c90d49e4166598155be799a24a8565ec8f94") (collects #"bf" #"parser.rkt") (collects #"br" #"quicklang.rkt") (collects #"brag" #"support.rkt") (collects #"racket" #"runtime-config.rkt"))
